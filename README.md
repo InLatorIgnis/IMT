@@ -17,9 +17,9 @@ All to aproximate a targets location/distance from user device.
 - [x] Realize that this is in no particular order
 
 ### Decided
-IDE: Android Studio
-Language: Java
-Android Version: 10
+- IDE: Android Studio
+- Language: Java
+- Android Version: 10
 
 ### Main Mission
 Build an app that sniffs tcp packets from RCA-messages.
