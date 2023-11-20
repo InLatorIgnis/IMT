@@ -15,3 +15,19 @@ All to aproximate a targets location/distance from user device.
 - [ ] Write a rapport
 - [ ] Flowchart
 - [x] Realize that this is in no particular order
+
+### Decided
+IDE: Android Studio
+Language: Java
+Android Version: 10
+
+### Main Mission
+Build an app that sniffs tcp packets from RCA-messages.
+App extracts IPv4-adress (¿IPv6?) and uses it to perform one or serveral of;
+Ping, Traceroute, Arp-Scan, Nma.
+Figure out if the application can, with some accuracy show where the reciever is located.
+Se if the node(cell tower) that the reciever is connected to can be deciphered in som way,
+thus giving some information about the general area that the recievier is located.
+With the collected information, can the app with some simple math give show a general area
+where the reciever is located. Combine a plethora of software utilities to give away a somewhat
+precise location.
